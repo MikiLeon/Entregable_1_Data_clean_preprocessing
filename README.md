@@ -16,11 +16,17 @@ El foco de esta entrega es aplicar técnicas de **data cleaning y preprocessing*
 
 ## 📁 Estructura del repositorio
  Entregable_1_Data_clean_preprocessing
+ 
 ├── Entregable_1_Data_clean_preprocessing.ipynb # Notebook principal
+
 ├── data/
+
 │ ├── bmw_pricing/ # Datos originales sin modificar
-│ └── data_sample_50/ # Sample del dataset limpio con 50 predicciones. 
-├── requirements.txt # Librerías necesarias
+
+│ └── data_sample_50/ # Sample del dataset limpio con 50 predicciones.
+
+├── requirements.txt # Librerías necesarias.
+
 ├── README.md 
 
 ---
@@ -62,3 +68,4 @@ Consulta el archivo LICENSE para más detalles o visita la [descripción oficial
   
   🔗 [GitHub](https://github.com/MikiLeon)
    
+
