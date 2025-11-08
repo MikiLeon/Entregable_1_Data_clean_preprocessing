@@ -21,9 +21,9 @@ El foco de esta entrega es aplicar técnicas de **data cleaning y preprocessing*
 
 ├── data/
 
-│ ├── bmw_pricing/ # Datos originales sin modificar
+│ ├── bmw_pricing.csv/ # Datos originales sin modificar
 
-│ └── data_sample_50/ # Sample del dataset limpio con 50 predicciones.
+│ └── data_sample_50.xlsx/ # Sample del dataset limpio con 50 predicciones.
 
 ├── requirements.txt # Librerías necesarias.
 
@@ -68,4 +68,5 @@ Consulta el archivo LICENSE para más detalles o visita la [descripción oficial
   
   🔗 [GitHub](https://github.com/MikiLeon)
    
+
 
